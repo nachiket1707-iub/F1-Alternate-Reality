@@ -1,0 +1,505 @@
+round_number,event_name,driver_code,team_name,race_points,cumulative_points,position,narrative_phase
+1,Australian Grand Prix,ALB,Williams,10.0,10.0,5,Season Start
+2,Chinese Grand Prix,ALB,Williams,6.0,16.0,7,Season Start
+3,Japanese Grand Prix,ALB,Williams,2.0,18.0,9,Season Start
+4,Bahrain Grand Prix,ALB,Williams,0.0,18.0,12,Season Start
+5,Saudi Arabian Grand Prix,ALB,Williams,2.0,20.0,9,McLaren Dominance
+6,Miami Grand Prix,ALB,Williams,10.0,30.0,5,McLaren Dominance
+7,Emilia Romagna Grand Prix,ALB,Williams,10.0,40.0,5,McLaren Dominance
+8,Monaco Grand Prix,ALB,Williams,2.0,42.0,9,McLaren Dominance
+9,Spanish Grand Prix,ALB,Williams,0.0,42.0,19,McLaren Dominance
+10,Canadian Grand Prix,ALB,Williams,0.0,42.0,20,Three-Way Battle
+11,Austrian Grand Prix,ALB,Williams,0.0,42.0,17,Three-Way Battle
+12,British Grand Prix,ALB,Williams,4.0,46.0,8,Three-Way Battle
+13,Belgian Grand Prix,ALB,Williams,8.0,54.0,6,Three-Way Battle
+14,Hungarian Grand Prix,ALB,Williams,0.0,54.0,15,Turning Point
+15,Dutch Grand Prix,ALB,Williams,10.0,64.0,5,Finale
+16,Italian Grand Prix,ALB,Williams,6.0,70.0,7,Finale
+17,Azerbaijan Grand Prix,ALB,Williams,0.0,70.0,13,Finale
+18,Singapore Grand Prix,ALB,Williams,0.0,70.0,14,Finale
+19,United States Grand Prix,ALB,Williams,0.0,70.0,14,Finale
+20,Mexico City Grand Prix,ALB,Williams,0.0,70.0,12,Finale
+21,São Paulo Grand Prix,ALB,Williams,0.0,70.0,11,Finale
+22,Las Vegas Grand Prix,ALB,Williams,0.0,70.0,16,Finale
+23,Qatar Grand Prix,ALB,Williams,0.0,70.0,11,Finale
+24,Abu Dhabi Grand Prix,ALB,Williams,0.0,70.0,16,Finale
+1,Australian Grand Prix,ALO,Aston Martin,0.0,0.0,17,Season Start
+2,Chinese Grand Prix,ALO,Aston Martin,0.0,0.0,17,Season Start
+3,Japanese Grand Prix,ALO,Aston Martin,0.0,0.0,11,Season Start
+4,Bahrain Grand Prix,ALO,Aston Martin,0.0,0.0,15,Season Start
+5,Saudi Arabian Grand Prix,ALO,Aston Martin,0.0,0.0,11,McLaren Dominance
+6,Miami Grand Prix,ALO,Aston Martin,0.0,0.0,15,McLaren Dominance
+7,Emilia Romagna Grand Prix,ALO,Aston Martin,0.0,0.0,11,McLaren Dominance
+8,Monaco Grand Prix,ALO,Aston Martin,0.0,0.0,19,McLaren Dominance
+9,Spanish Grand Prix,ALO,Aston Martin,2.0,2.0,9,McLaren Dominance
+10,Canadian Grand Prix,ALO,Aston Martin,6.0,8.0,7,Three-Way Battle
+11,Austrian Grand Prix,ALO,Aston Martin,6.0,14.0,7,Three-Way Battle
+12,British Grand Prix,ALO,Aston Martin,2.0,16.0,9,Three-Way Battle
+13,Belgian Grand Prix,ALO,Aston Martin,0.0,16.0,17,Three-Way Battle
+14,Hungarian Grand Prix,ALO,Aston Martin,10.0,26.0,5,Turning Point
+15,Dutch Grand Prix,ALO,Aston Martin,4.0,30.0,8,Finale
+16,Italian Grand Prix,ALO,Aston Martin,0.0,30.0,19,Finale
+17,Azerbaijan Grand Prix,ALO,Aston Martin,0.0,30.0,15,Finale
+18,Singapore Grand Prix,ALO,Aston Martin,6.0,36.0,7,Finale
+19,United States Grand Prix,ALO,Aston Martin,1.0,37.0,10,Finale
+20,Mexico City Grand Prix,ALO,Aston Martin,0.0,37.0,18,Finale
+21,São Paulo Grand Prix,ALO,Aston Martin,0.0,37.0,14,Finale
+22,Las Vegas Grand Prix,ALO,Aston Martin,0.0,37.0,11,Finale
+23,Qatar Grand Prix,ALO,Aston Martin,6.0,43.0,7,Finale
+24,Abu Dhabi Grand Prix,ALO,Aston Martin,8.0,51.0,6,Finale
+1,Australian Grand Prix,ANT,Mercedes,12.0,12.0,4,Season Start
+2,Chinese Grand Prix,ANT,Mercedes,8.0,20.0,6,Season Start
+3,Japanese Grand Prix,ANT,Mercedes,8.0,28.0,6,Season Start
+4,Bahrain Grand Prix,ANT,Mercedes,0.0,28.0,11,Season Start
+5,Saudi Arabian Grand Prix,ANT,Mercedes,8.0,36.0,6,McLaren Dominance
+6,Miami Grand Prix,ANT,Mercedes,8.0,44.0,6,McLaren Dominance
+7,Emilia Romagna Grand Prix,ANT,Mercedes,0.0,44.0,19,McLaren Dominance
+8,Monaco Grand Prix,ANT,Mercedes,0.0,44.0,18,McLaren Dominance
+9,Spanish Grand Prix,ANT,Mercedes,0.0,44.0,18,McLaren Dominance
+10,Canadian Grand Prix,ANT,Mercedes,15.0,59.0,3,Three-Way Battle
+11,Austrian Grand Prix,ANT,Mercedes,0.0,59.0,19,Three-Way Battle
+12,British Grand Prix,ANT,Mercedes,0.0,59.0,16,Three-Way Battle
+13,Belgian Grand Prix,ANT,Mercedes,0.0,59.0,16,Three-Way Battle
+14,Hungarian Grand Prix,ANT,Mercedes,1.0,60.0,10,Turning Point
+15,Dutch Grand Prix,ANT,Mercedes,0.0,60.0,16,Finale
+16,Italian Grand Prix,ANT,Mercedes,2.0,62.0,9,Finale
+17,Azerbaijan Grand Prix,ANT,Mercedes,12.0,74.0,4,Finale
+18,Singapore Grand Prix,ANT,Mercedes,10.0,84.0,5,Finale
+19,United States Grand Prix,ANT,Mercedes,0.0,84.0,13,Finale
+20,Mexico City Grand Prix,ANT,Mercedes,8.0,92.0,6,Finale
+21,São Paulo Grand Prix,ANT,Mercedes,18.0,110.0,2,Finale
+22,Las Vegas Grand Prix,ANT,Mercedes,15.0,125.0,3,Finale
+23,Qatar Grand Prix,ANT,Mercedes,10.0,135.0,5,Finale
+24,Abu Dhabi Grand Prix,ANT,Mercedes,0.0,135.0,15,Finale
+1,Australian Grand Prix,BEA,Haas F1 Team,0.0,0.0,14,Season Start
+2,Chinese Grand Prix,BEA,Haas F1 Team,4.0,4.0,8,Season Start
+3,Japanese Grand Prix,BEA,Haas F1 Team,1.0,5.0,10,Season Start
+4,Bahrain Grand Prix,BEA,Haas F1 Team,1.0,6.0,10,Season Start
+5,Saudi Arabian Grand Prix,BEA,Haas F1 Team,0.0,6.0,13,McLaren Dominance
+6,Miami Grand Prix,BEA,Haas F1 Team,0.0,6.0,19,McLaren Dominance
+7,Emilia Romagna Grand Prix,BEA,Haas F1 Team,0.0,6.0,17,McLaren Dominance
+8,Monaco Grand Prix,BEA,Haas F1 Team,0.0,6.0,12,McLaren Dominance
+9,Spanish Grand Prix,BEA,Haas F1 Team,0.0,6.0,17,McLaren Dominance
+10,Canadian Grand Prix,BEA,Haas F1 Team,0.0,6.0,11,Three-Way Battle
+11,Austrian Grand Prix,BEA,Haas F1 Team,0.0,6.0,11,Three-Way Battle
+12,British Grand Prix,BEA,Haas F1 Team,0.0,6.0,11,Three-Way Battle
+13,Belgian Grand Prix,BEA,Haas F1 Team,0.0,6.0,11,Three-Way Battle
+14,Hungarian Grand Prix,BEA,Haas F1 Team,0.0,6.0,20,Turning Point
+15,Dutch Grand Prix,BEA,Haas F1 Team,8.0,14.0,6,Finale
+16,Italian Grand Prix,BEA,Haas F1 Team,0.0,14.0,12,Finale
+17,Azerbaijan Grand Prix,BEA,Haas F1 Team,0.0,14.0,12,Finale
+18,Singapore Grand Prix,BEA,Haas F1 Team,2.0,16.0,9,Finale
+19,United States Grand Prix,BEA,Haas F1 Team,2.0,18.0,9,Finale
+20,Mexico City Grand Prix,BEA,Haas F1 Team,12.0,30.0,4,Finale
+21,São Paulo Grand Prix,BEA,Haas F1 Team,8.0,38.0,6,Finale
+22,Las Vegas Grand Prix,BEA,Haas F1 Team,1.0,39.0,10,Finale
+23,Qatar Grand Prix,BEA,Haas F1 Team,0.0,39.0,19,Finale
+24,Abu Dhabi Grand Prix,BEA,Haas F1 Team,0.0,39.0,12,Finale
+1,Australian Grand Prix,BOR,Kick Sauber,0.0,0.0,16,Season Start
+2,Chinese Grand Prix,BOR,Kick Sauber,0.0,0.0,14,Season Start
+3,Japanese Grand Prix,BOR,Kick Sauber,0.0,0.0,19,Season Start
+4,Bahrain Grand Prix,BOR,Kick Sauber,0.0,0.0,18,Season Start
+5,Saudi Arabian Grand Prix,BOR,Kick Sauber,0.0,0.0,18,McLaren Dominance
+6,Miami Grand Prix,BOR,Kick Sauber,0.0,0.0,18,McLaren Dominance
+7,Emilia Romagna Grand Prix,BOR,Kick Sauber,0.0,0.0,18,McLaren Dominance
+8,Monaco Grand Prix,BOR,Kick Sauber,0.0,0.0,14,McLaren Dominance
+9,Spanish Grand Prix,BOR,Kick Sauber,0.0,0.0,12,McLaren Dominance
+10,Canadian Grand Prix,BOR,Kick Sauber,0.0,0.0,14,Three-Way Battle
+11,Austrian Grand Prix,BOR,Kick Sauber,4.0,4.0,8,Three-Way Battle
+12,British Grand Prix,BOR,Kick Sauber,0.0,4.0,18,Three-Way Battle
+13,Belgian Grand Prix,BOR,Kick Sauber,2.0,6.0,9,Three-Way Battle
+14,Hungarian Grand Prix,BOR,Kick Sauber,8.0,14.0,6,Turning Point
+15,Dutch Grand Prix,BOR,Kick Sauber,0.0,14.0,15,Finale
+16,Italian Grand Prix,BOR,Kick Sauber,4.0,18.0,8,Finale
+17,Azerbaijan Grand Prix,BOR,Kick Sauber,0.0,18.0,11,Finale
+18,Singapore Grand Prix,BOR,Kick Sauber,0.0,18.0,17,Finale
+19,United States Grand Prix,BOR,Kick Sauber,0.0,18.0,18,Finale
+20,Mexico City Grand Prix,BOR,Kick Sauber,1.0,19.0,10,Finale
+21,São Paulo Grand Prix,BOR,Kick Sauber,0.0,19.0,20,Finale
+22,Las Vegas Grand Prix,BOR,Kick Sauber,0.0,19.0,17,Finale
+23,Qatar Grand Prix,BOR,Kick Sauber,0.0,19.0,13,Finale
+24,Abu Dhabi Grand Prix,BOR,Kick Sauber,0.0,19.0,11,Finale
+1,Australian Grand Prix,COL,Alpine,0.0,0.0,,Season Start
+2,Chinese Grand Prix,COL,Alpine,0.0,0.0,,Season Start
+3,Japanese Grand Prix,COL,Alpine,0.0,0.0,,Season Start
+4,Bahrain Grand Prix,COL,Alpine,0.0,0.0,,Season Start
+5,Saudi Arabian Grand Prix,COL,Alpine,0.0,0.0,,McLaren Dominance
+6,Miami Grand Prix,COL,Alpine,0.0,0.0,,McLaren Dominance
+7,Emilia Romagna Grand Prix,COL,Alpine,0.0,0.0,16,McLaren Dominance
+8,Monaco Grand Prix,COL,Alpine,0.0,0.0,13,McLaren Dominance
+9,Spanish Grand Prix,COL,Alpine,0.0,0.0,15,McLaren Dominance
+10,Canadian Grand Prix,COL,Alpine,0.0,0.0,13,Three-Way Battle
+11,Austrian Grand Prix,COL,Alpine,0.0,0.0,15,Three-Way Battle
+12,British Grand Prix,COL,Alpine,0.0,0.0,20,Three-Way Battle
+13,Belgian Grand Prix,COL,Alpine,0.0,0.0,19,Three-Way Battle
+14,Hungarian Grand Prix,COL,Alpine,0.0,0.0,18,Turning Point
+15,Dutch Grand Prix,COL,Alpine,0.0,0.0,11,Finale
+16,Italian Grand Prix,COL,Alpine,0.0,0.0,17,Finale
+17,Azerbaijan Grand Prix,COL,Alpine,0.0,0.0,19,Finale
+18,Singapore Grand Prix,COL,Alpine,0.0,0.0,16,Finale
+19,United States Grand Prix,COL,Alpine,0.0,0.0,17,Finale
+20,Mexico City Grand Prix,COL,Alpine,0.0,0.0,16,Finale
+21,São Paulo Grand Prix,COL,Alpine,0.0,0.0,15,Finale
+22,Las Vegas Grand Prix,COL,Alpine,0.0,0.0,15,Finale
+23,Qatar Grand Prix,COL,Alpine,0.0,0.0,14,Finale
+24,Abu Dhabi Grand Prix,COL,Alpine,0.0,0.0,20,Finale
+1,Australian Grand Prix,DOO,Alpine,0.0,0.0,19,Season Start
+2,Chinese Grand Prix,DOO,Alpine,0.0,0.0,13,Season Start
+3,Japanese Grand Prix,DOO,Alpine,0.0,0.0,15,Season Start
+4,Bahrain Grand Prix,DOO,Alpine,0.0,0.0,14,Season Start
+5,Saudi Arabian Grand Prix,DOO,Alpine,0.0,0.0,17,McLaren Dominance
+6,Miami Grand Prix,DOO,Alpine,0.0,0.0,20,McLaren Dominance
+7,Emilia Romagna Grand Prix,DOO,Alpine,0.0,0.0,,McLaren Dominance
+8,Monaco Grand Prix,DOO,Alpine,0.0,0.0,,McLaren Dominance
+9,Spanish Grand Prix,DOO,Alpine,0.0,0.0,,McLaren Dominance
+10,Canadian Grand Prix,DOO,Alpine,0.0,0.0,,Three-Way Battle
+11,Austrian Grand Prix,DOO,Alpine,0.0,0.0,,Three-Way Battle
+12,British Grand Prix,DOO,Alpine,0.0,0.0,,Three-Way Battle
+13,Belgian Grand Prix,DOO,Alpine,0.0,0.0,,Three-Way Battle
+14,Hungarian Grand Prix,DOO,Alpine,0.0,0.0,,Turning Point
+15,Dutch Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+16,Italian Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+17,Azerbaijan Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+18,Singapore Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+19,United States Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+20,Mexico City Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+21,São Paulo Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+22,Las Vegas Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+23,Qatar Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+24,Abu Dhabi Grand Prix,DOO,Alpine,0.0,0.0,,Finale
+1,Australian Grand Prix,GAS,Alpine,0.0,0.0,11,Season Start
+2,Chinese Grand Prix,GAS,Alpine,0.0,0.0,20,Season Start
+3,Japanese Grand Prix,GAS,Alpine,0.0,0.0,13,Season Start
+4,Bahrain Grand Prix,GAS,Alpine,6.0,6.0,7,Season Start
+5,Saudi Arabian Grand Prix,GAS,Alpine,0.0,6.0,20,McLaren Dominance
+6,Miami Grand Prix,GAS,Alpine,0.0,6.0,13,McLaren Dominance
+7,Emilia Romagna Grand Prix,GAS,Alpine,0.0,6.0,13,McLaren Dominance
+8,Monaco Grand Prix,GAS,Alpine,0.0,6.0,20,McLaren Dominance
+9,Spanish Grand Prix,GAS,Alpine,4.0,10.0,8,McLaren Dominance
+10,Canadian Grand Prix,GAS,Alpine,0.0,10.0,15,Three-Way Battle
+11,Austrian Grand Prix,GAS,Alpine,0.0,10.0,13,Three-Way Battle
+12,British Grand Prix,GAS,Alpine,8.0,18.0,6,Three-Way Battle
+13,Belgian Grand Prix,GAS,Alpine,1.0,19.0,10,Three-Way Battle
+14,Hungarian Grand Prix,GAS,Alpine,0.0,19.0,19,Turning Point
+15,Dutch Grand Prix,GAS,Alpine,0.0,19.0,17,Finale
+16,Italian Grand Prix,GAS,Alpine,0.0,19.0,16,Finale
+17,Azerbaijan Grand Prix,GAS,Alpine,0.0,19.0,18,Finale
+18,Singapore Grand Prix,GAS,Alpine,0.0,19.0,19,Finale
+19,United States Grand Prix,GAS,Alpine,0.0,19.0,19,Finale
+20,Mexico City Grand Prix,GAS,Alpine,0.0,19.0,15,Finale
+21,São Paulo Grand Prix,GAS,Alpine,1.0,20.0,10,Finale
+22,Las Vegas Grand Prix,GAS,Alpine,0.0,20.0,13,Finale
+23,Qatar Grand Prix,GAS,Alpine,0.0,20.0,16,Finale
+24,Abu Dhabi Grand Prix,GAS,Alpine,0.0,20.0,19,Finale
+1,Australian Grand Prix,HAD,Racing Bulls,0.0,0.0,20,Season Start
+2,Chinese Grand Prix,HAD,Racing Bulls,0.0,0.0,11,Season Start
+3,Japanese Grand Prix,HAD,Racing Bulls,4.0,4.0,8,Season Start
+4,Bahrain Grand Prix,HAD,Racing Bulls,0.0,4.0,13,Season Start
+5,Saudi Arabian Grand Prix,HAD,Racing Bulls,1.0,5.0,10,McLaren Dominance
+6,Miami Grand Prix,HAD,Racing Bulls,0.0,5.0,11,McLaren Dominance
+7,Emilia Romagna Grand Prix,HAD,Racing Bulls,2.0,7.0,9,McLaren Dominance
+8,Monaco Grand Prix,HAD,Racing Bulls,8.0,15.0,6,McLaren Dominance
+9,Spanish Grand Prix,HAD,Racing Bulls,6.0,21.0,7,McLaren Dominance
+10,Canadian Grand Prix,HAD,Racing Bulls,0.0,21.0,16,Three-Way Battle
+11,Austrian Grand Prix,HAD,Racing Bulls,0.0,21.0,12,Three-Way Battle
+12,British Grand Prix,HAD,Racing Bulls,0.0,21.0,17,Three-Way Battle
+13,Belgian Grand Prix,HAD,Racing Bulls,0.0,21.0,20,Three-Way Battle
+14,Hungarian Grand Prix,HAD,Racing Bulls,0.0,21.0,11,Turning Point
+15,Dutch Grand Prix,HAD,Racing Bulls,15.0,36.0,3,Finale
+16,Italian Grand Prix,HAD,Racing Bulls,1.0,37.0,10,Finale
+17,Azerbaijan Grand Prix,HAD,Racing Bulls,1.0,38.0,10,Finale
+18,Singapore Grand Prix,HAD,Racing Bulls,0.0,38.0,11,Finale
+19,United States Grand Prix,HAD,Racing Bulls,0.0,38.0,16,Finale
+20,Mexico City Grand Prix,HAD,Racing Bulls,0.0,38.0,13,Finale
+21,São Paulo Grand Prix,HAD,Racing Bulls,4.0,42.0,8,Finale
+22,Las Vegas Grand Prix,HAD,Racing Bulls,8.0,50.0,6,Finale
+23,Qatar Grand Prix,HAD,Racing Bulls,0.0,50.0,18,Finale
+24,Abu Dhabi Grand Prix,HAD,Racing Bulls,0.0,50.0,17,Finale
+1,Australian Grand Prix,HAM,Ferrari,1.0,1.0,10,Season Start
+2,Chinese Grand Prix,HAM,Ferrari,0.0,1.0,19,Season Start
+3,Japanese Grand Prix,HAM,Ferrari,6.0,7.0,7,Season Start
+4,Bahrain Grand Prix,HAM,Ferrari,10.0,17.0,5,Season Start
+5,Saudi Arabian Grand Prix,HAM,Ferrari,6.0,23.0,7,McLaren Dominance
+6,Miami Grand Prix,HAM,Ferrari,4.0,27.0,8,McLaren Dominance
+7,Emilia Romagna Grand Prix,HAM,Ferrari,12.0,39.0,4,McLaren Dominance
+8,Monaco Grand Prix,HAM,Ferrari,10.0,49.0,5,McLaren Dominance
+9,Spanish Grand Prix,HAM,Ferrari,8.0,57.0,6,McLaren Dominance
+10,Canadian Grand Prix,HAM,Ferrari,8.0,65.0,6,Three-Way Battle
+11,Austrian Grand Prix,HAM,Ferrari,12.0,77.0,4,Three-Way Battle
+12,British Grand Prix,HAM,Ferrari,12.0,89.0,4,Three-Way Battle
+13,Belgian Grand Prix,HAM,Ferrari,6.0,95.0,7,Three-Way Battle
+14,Hungarian Grand Prix,HAM,Ferrari,0.0,95.0,12,Turning Point
+15,Dutch Grand Prix,HAM,Ferrari,0.0,95.0,20,Finale
+16,Italian Grand Prix,HAM,Ferrari,8.0,103.0,6,Finale
+17,Azerbaijan Grand Prix,HAM,Ferrari,4.0,107.0,8,Finale
+18,Singapore Grand Prix,HAM,Ferrari,4.0,111.0,8,Finale
+19,United States Grand Prix,HAM,Ferrari,12.0,123.0,4,Finale
+20,Mexico City Grand Prix,HAM,Ferrari,4.0,127.0,8,Finale
+21,São Paulo Grand Prix,HAM,Ferrari,0.0,127.0,18,Finale
+22,Las Vegas Grand Prix,HAM,Ferrari,4.0,131.0,8,Finale
+23,Qatar Grand Prix,HAM,Ferrari,0.0,131.0,12,Finale
+24,Abu Dhabi Grand Prix,HAM,Ferrari,4.0,135.0,8,Finale
+1,Australian Grand Prix,HUL,Kick Sauber,6.0,6.0,7,Season Start
+2,Chinese Grand Prix,HUL,Kick Sauber,0.0,6.0,15,Season Start
+3,Japanese Grand Prix,HUL,Kick Sauber,0.0,6.0,16,Season Start
+4,Bahrain Grand Prix,HUL,Kick Sauber,0.0,6.0,20,Season Start
+5,Saudi Arabian Grand Prix,HUL,Kick Sauber,0.0,6.0,15,McLaren Dominance
+6,Miami Grand Prix,HUL,Kick Sauber,0.0,6.0,14,McLaren Dominance
+7,Emilia Romagna Grand Prix,HUL,Kick Sauber,0.0,6.0,12,McLaren Dominance
+8,Monaco Grand Prix,HUL,Kick Sauber,0.0,6.0,16,McLaren Dominance
+9,Spanish Grand Prix,HUL,Kick Sauber,10.0,16.0,5,McLaren Dominance
+10,Canadian Grand Prix,HUL,Kick Sauber,4.0,20.0,8,Three-Way Battle
+11,Austrian Grand Prix,HUL,Kick Sauber,2.0,22.0,9,Three-Way Battle
+12,British Grand Prix,HUL,Kick Sauber,15.0,37.0,3,Three-Way Battle
+13,Belgian Grand Prix,HUL,Kick Sauber,0.0,37.0,12,Three-Way Battle
+14,Hungarian Grand Prix,HUL,Kick Sauber,0.0,37.0,13,Turning Point
+15,Dutch Grand Prix,HUL,Kick Sauber,0.0,37.0,14,Finale
+16,Italian Grand Prix,HUL,Kick Sauber,0.0,37.0,20,Finale
+17,Azerbaijan Grand Prix,HUL,Kick Sauber,0.0,37.0,16,Finale
+18,Singapore Grand Prix,HUL,Kick Sauber,0.0,37.0,20,Finale
+19,United States Grand Prix,HUL,Kick Sauber,4.0,41.0,8,Finale
+20,Mexico City Grand Prix,HUL,Kick Sauber,0.0,41.0,19,Finale
+21,São Paulo Grand Prix,HUL,Kick Sauber,2.0,43.0,9,Finale
+22,Las Vegas Grand Prix,HUL,Kick Sauber,6.0,49.0,7,Finale
+23,Qatar Grand Prix,HUL,Kick Sauber,0.0,49.0,20,Finale
+24,Abu Dhabi Grand Prix,HUL,Kick Sauber,2.0,51.0,9,Finale
+1,Australian Grand Prix,LAW,Racing Bulls,0.0,0.0,15,Season Start
+2,Chinese Grand Prix,LAW,Racing Bulls,0.0,0.0,12,Season Start
+3,Japanese Grand Prix,LAW,Racing Bulls,0.0,0.0,17,Season Start
+4,Bahrain Grand Prix,LAW,Racing Bulls,0.0,0.0,16,Season Start
+5,Saudi Arabian Grand Prix,LAW,Racing Bulls,0.0,0.0,12,McLaren Dominance
+6,Miami Grand Prix,LAW,Racing Bulls,0.0,0.0,17,McLaren Dominance
+7,Emilia Romagna Grand Prix,LAW,Racing Bulls,0.0,0.0,14,McLaren Dominance
+8,Monaco Grand Prix,LAW,Racing Bulls,4.0,4.0,8,McLaren Dominance
+9,Spanish Grand Prix,LAW,Racing Bulls,0.0,4.0,11,McLaren Dominance
+10,Canadian Grand Prix,LAW,Racing Bulls,0.0,4.0,19,Three-Way Battle
+11,Austrian Grand Prix,LAW,Racing Bulls,8.0,12.0,6,Three-Way Battle
+12,British Grand Prix,LAW,Racing Bulls,0.0,12.0,19,Three-Way Battle
+13,Belgian Grand Prix,LAW,Racing Bulls,4.0,16.0,8,Three-Way Battle
+14,Hungarian Grand Prix,LAW,Racing Bulls,4.0,20.0,8,Turning Point
+15,Dutch Grand Prix,LAW,Racing Bulls,0.0,20.0,12,Finale
+16,Italian Grand Prix,LAW,Racing Bulls,0.0,20.0,14,Finale
+17,Azerbaijan Grand Prix,LAW,Racing Bulls,10.0,30.0,5,Finale
+18,Singapore Grand Prix,LAW,Racing Bulls,0.0,30.0,15,Finale
+19,United States Grand Prix,LAW,Racing Bulls,0.0,30.0,11,Finale
+20,Mexico City Grand Prix,LAW,Racing Bulls,0.0,30.0,20,Finale
+21,São Paulo Grand Prix,LAW,Racing Bulls,6.0,36.0,7,Finale
+22,Las Vegas Grand Prix,LAW,Racing Bulls,0.0,36.0,14,Finale
+23,Qatar Grand Prix,LAW,Racing Bulls,2.0,38.0,9,Finale
+24,Abu Dhabi Grand Prix,LAW,Racing Bulls,0.0,38.0,18,Finale
+1,Australian Grand Prix,LEC,Ferrari,4.0,4.0,8,Season Start
+2,Chinese Grand Prix,LEC,Ferrari,0.0,4.0,18,Season Start
+3,Japanese Grand Prix,LEC,Ferrari,12.0,16.0,4,Season Start
+4,Bahrain Grand Prix,LEC,Ferrari,12.0,28.0,4,Season Start
+5,Saudi Arabian Grand Prix,LEC,Ferrari,15.0,43.0,3,McLaren Dominance
+6,Miami Grand Prix,LEC,Ferrari,6.0,49.0,7,McLaren Dominance
+7,Emilia Romagna Grand Prix,LEC,Ferrari,8.0,57.0,6,McLaren Dominance
+8,Monaco Grand Prix,LEC,Ferrari,18.0,75.0,2,McLaren Dominance
+9,Spanish Grand Prix,LEC,Ferrari,15.0,90.0,3,McLaren Dominance
+10,Canadian Grand Prix,LEC,Ferrari,10.0,100.0,5,Three-Way Battle
+11,Austrian Grand Prix,LEC,Ferrari,15.0,115.0,3,Three-Way Battle
+12,British Grand Prix,LEC,Ferrari,0.0,115.0,14,Three-Way Battle
+13,Belgian Grand Prix,LEC,Ferrari,15.0,130.0,3,Three-Way Battle
+14,Hungarian Grand Prix,LEC,Ferrari,12.0,142.0,4,Turning Point
+15,Dutch Grand Prix,LEC,Ferrari,0.0,142.0,19,Finale
+16,Italian Grand Prix,LEC,Ferrari,12.0,154.0,4,Finale
+17,Azerbaijan Grand Prix,LEC,Ferrari,2.0,156.0,9,Finale
+18,Singapore Grand Prix,LEC,Ferrari,8.0,164.0,6,Finale
+19,United States Grand Prix,LEC,Ferrari,15.0,179.0,3,Finale
+20,Mexico City Grand Prix,LEC,Ferrari,18.0,197.0,2,Finale
+21,São Paulo Grand Prix,LEC,Ferrari,0.0,197.0,19,Finale
+22,Las Vegas Grand Prix,LEC,Ferrari,12.0,209.0,4,Finale
+23,Qatar Grand Prix,LEC,Ferrari,4.0,213.0,8,Finale
+24,Abu Dhabi Grand Prix,LEC,Ferrari,12.0,225.0,4,Finale
+1,Australian Grand Prix,NOR,McLaren,25.0,25.0,1,Season Start
+2,Chinese Grand Prix,NOR,McLaren,18.0,43.0,2,Season Start
+3,Japanese Grand Prix,NOR,McLaren,18.0,61.0,2,Season Start
+4,Bahrain Grand Prix,NOR,McLaren,15.0,76.0,3,Season Start
+5,Saudi Arabian Grand Prix,NOR,McLaren,12.0,88.0,4,McLaren Dominance
+6,Miami Grand Prix,NOR,McLaren,18.0,106.0,2,McLaren Dominance
+7,Emilia Romagna Grand Prix,NOR,McLaren,18.0,124.0,2,McLaren Dominance
+8,Monaco Grand Prix,NOR,McLaren,25.0,149.0,1,McLaren Dominance
+9,Spanish Grand Prix,NOR,McLaren,18.0,167.0,2,McLaren Dominance
+10,Canadian Grand Prix,NOR,McLaren,0.0,167.0,18,Three-Way Battle
+11,Austrian Grand Prix,NOR,McLaren,25.0,192.0,1,Three-Way Battle
+12,British Grand Prix,NOR,McLaren,25.0,217.0,1,Three-Way Battle
+13,Belgian Grand Prix,NOR,McLaren,18.0,235.0,2,Three-Way Battle
+14,Hungarian Grand Prix,NOR,McLaren,25.0,260.0,1,Turning Point
+15,Dutch Grand Prix,NOR,McLaren,0.0,260.0,18,Finale
+16,Italian Grand Prix,NOR,McLaren,18.0,278.0,2,Finale
+17,Azerbaijan Grand Prix,NOR,McLaren,6.0,284.0,7,Finale
+18,Singapore Grand Prix,NOR,McLaren,15.0,299.0,3,Finale
+19,United States Grand Prix,NOR,McLaren,18.0,317.0,2,Finale
+20,Mexico City Grand Prix,NOR,McLaren,25.0,342.0,1,Finale
+21,São Paulo Grand Prix,NOR,McLaren,25.0,367.0,1,Finale
+22,Las Vegas Grand Prix,NOR,McLaren,0.0,367.0,19,Finale
+23,Qatar Grand Prix,NOR,McLaren,12.0,379.0,4,Finale
+24,Abu Dhabi Grand Prix,NOR,McLaren,15.0,394.0,3,Finale
+1,Australian Grand Prix,OCO,Haas F1 Team,0.0,0.0,13,Season Start
+2,Chinese Grand Prix,OCO,Haas F1 Team,10.0,10.0,5,Season Start
+3,Japanese Grand Prix,OCO,Haas F1 Team,0.0,10.0,18,Season Start
+4,Bahrain Grand Prix,OCO,Haas F1 Team,4.0,14.0,8,Season Start
+5,Saudi Arabian Grand Prix,OCO,Haas F1 Team,0.0,14.0,14,McLaren Dominance
+6,Miami Grand Prix,OCO,Haas F1 Team,0.0,14.0,12,McLaren Dominance
+7,Emilia Romagna Grand Prix,OCO,Haas F1 Team,0.0,14.0,20,McLaren Dominance
+8,Monaco Grand Prix,OCO,Haas F1 Team,6.0,20.0,7,McLaren Dominance
+9,Spanish Grand Prix,OCO,Haas F1 Team,0.0,20.0,16,McLaren Dominance
+10,Canadian Grand Prix,OCO,Haas F1 Team,2.0,22.0,9,Three-Way Battle
+11,Austrian Grand Prix,OCO,Haas F1 Team,1.0,23.0,10,Three-Way Battle
+12,British Grand Prix,OCO,Haas F1 Team,0.0,23.0,13,Three-Way Battle
+13,Belgian Grand Prix,OCO,Haas F1 Team,0.0,23.0,15,Three-Way Battle
+14,Hungarian Grand Prix,OCO,Haas F1 Team,0.0,23.0,16,Turning Point
+15,Dutch Grand Prix,OCO,Haas F1 Team,1.0,24.0,10,Finale
+16,Italian Grand Prix,OCO,Haas F1 Team,0.0,24.0,15,Finale
+17,Azerbaijan Grand Prix,OCO,Haas F1 Team,0.0,24.0,14,Finale
+18,Singapore Grand Prix,OCO,Haas F1 Team,0.0,24.0,18,Finale
+19,United States Grand Prix,OCO,Haas F1 Team,0.0,24.0,15,Finale
+20,Mexico City Grand Prix,OCO,Haas F1 Team,2.0,26.0,9,Finale
+21,São Paulo Grand Prix,OCO,Haas F1 Team,0.0,26.0,12,Finale
+22,Las Vegas Grand Prix,OCO,Haas F1 Team,2.0,28.0,9,Finale
+23,Qatar Grand Prix,OCO,Haas F1 Team,0.0,28.0,15,Finale
+24,Abu Dhabi Grand Prix,OCO,Haas F1 Team,6.0,34.0,7,Finale
+1,Australian Grand Prix,PIA,McLaren,2.0,2.0,9,Season Start
+2,Chinese Grand Prix,PIA,McLaren,25.0,27.0,1,Season Start
+3,Japanese Grand Prix,PIA,McLaren,15.0,42.0,3,Season Start
+4,Bahrain Grand Prix,PIA,McLaren,25.0,67.0,1,Season Start
+5,Saudi Arabian Grand Prix,PIA,McLaren,25.0,92.0,1,McLaren Dominance
+6,Miami Grand Prix,PIA,McLaren,25.0,117.0,1,McLaren Dominance
+7,Emilia Romagna Grand Prix,PIA,McLaren,15.0,132.0,3,McLaren Dominance
+8,Monaco Grand Prix,PIA,McLaren,15.0,147.0,3,McLaren Dominance
+9,Spanish Grand Prix,PIA,McLaren,25.0,172.0,1,McLaren Dominance
+10,Canadian Grand Prix,PIA,McLaren,12.0,184.0,4,Three-Way Battle
+11,Austrian Grand Prix,PIA,McLaren,18.0,202.0,2,Three-Way Battle
+12,British Grand Prix,PIA,McLaren,18.0,220.0,2,Three-Way Battle
+13,Belgian Grand Prix,PIA,McLaren,25.0,245.0,1,Three-Way Battle
+14,Hungarian Grand Prix,PIA,McLaren,18.0,263.0,2,Turning Point
+15,Dutch Grand Prix,PIA,McLaren,25.0,288.0,1,Finale
+16,Italian Grand Prix,PIA,McLaren,15.0,303.0,3,Finale
+17,Azerbaijan Grand Prix,PIA,McLaren,0.0,303.0,20,Finale
+18,Singapore Grand Prix,PIA,McLaren,12.0,315.0,4,Finale
+19,United States Grand Prix,PIA,McLaren,10.0,325.0,5,Finale
+20,Mexico City Grand Prix,PIA,McLaren,10.0,335.0,5,Finale
+21,São Paulo Grand Prix,PIA,McLaren,10.0,345.0,5,Finale
+22,Las Vegas Grand Prix,PIA,McLaren,0.0,345.0,20,Finale
+23,Qatar Grand Prix,PIA,McLaren,18.0,363.0,2,Finale
+24,Abu Dhabi Grand Prix,PIA,McLaren,18.0,381.0,2,Finale
+1,Australian Grand Prix,RUS,Mercedes,15.0,15.0,3,Season Start
+2,Chinese Grand Prix,RUS,Mercedes,15.0,30.0,3,Season Start
+3,Japanese Grand Prix,RUS,Mercedes,10.0,40.0,5,Season Start
+4,Bahrain Grand Prix,RUS,Mercedes,18.0,58.0,2,Season Start
+5,Saudi Arabian Grand Prix,RUS,Mercedes,10.0,68.0,5,McLaren Dominance
+6,Miami Grand Prix,RUS,Mercedes,15.0,83.0,3,McLaren Dominance
+7,Emilia Romagna Grand Prix,RUS,Mercedes,6.0,89.0,7,McLaren Dominance
+8,Monaco Grand Prix,RUS,Mercedes,0.0,89.0,11,McLaren Dominance
+9,Spanish Grand Prix,RUS,Mercedes,12.0,101.0,4,McLaren Dominance
+10,Canadian Grand Prix,RUS,Mercedes,25.0,126.0,1,Three-Way Battle
+11,Austrian Grand Prix,RUS,Mercedes,10.0,136.0,5,Three-Way Battle
+12,British Grand Prix,RUS,Mercedes,1.0,137.0,10,Three-Way Battle
+13,Belgian Grand Prix,RUS,Mercedes,10.0,147.0,5,Three-Way Battle
+14,Hungarian Grand Prix,RUS,Mercedes,15.0,162.0,3,Turning Point
+15,Dutch Grand Prix,RUS,Mercedes,12.0,174.0,4,Finale
+16,Italian Grand Prix,RUS,Mercedes,10.0,184.0,5,Finale
+17,Azerbaijan Grand Prix,RUS,Mercedes,18.0,202.0,2,Finale
+18,Singapore Grand Prix,RUS,Mercedes,25.0,227.0,1,Finale
+19,United States Grand Prix,RUS,Mercedes,8.0,235.0,6,Finale
+20,Mexico City Grand Prix,RUS,Mercedes,6.0,241.0,7,Finale
+21,São Paulo Grand Prix,RUS,Mercedes,12.0,253.0,4,Finale
+22,Las Vegas Grand Prix,RUS,Mercedes,18.0,271.0,2,Finale
+23,Qatar Grand Prix,RUS,Mercedes,8.0,279.0,6,Finale
+24,Abu Dhabi Grand Prix,RUS,Mercedes,10.0,289.0,5,Finale
+1,Australian Grand Prix,SAI,Williams,0.0,0.0,18,Season Start
+2,Chinese Grand Prix,SAI,Williams,1.0,1.0,10,Season Start
+3,Japanese Grand Prix,SAI,Williams,0.0,1.0,14,Season Start
+4,Bahrain Grand Prix,SAI,Williams,0.0,1.0,19,Season Start
+5,Saudi Arabian Grand Prix,SAI,Williams,4.0,5.0,8,McLaren Dominance
+6,Miami Grand Prix,SAI,Williams,2.0,7.0,9,McLaren Dominance
+7,Emilia Romagna Grand Prix,SAI,Williams,4.0,11.0,8,McLaren Dominance
+8,Monaco Grand Prix,SAI,Williams,1.0,12.0,10,McLaren Dominance
+9,Spanish Grand Prix,SAI,Williams,0.0,12.0,14,McLaren Dominance
+10,Canadian Grand Prix,SAI,Williams,1.0,13.0,10,Three-Way Battle
+11,Austrian Grand Prix,SAI,Williams,0.0,13.0,20,Three-Way Battle
+12,British Grand Prix,SAI,Williams,0.0,13.0,12,Three-Way Battle
+13,Belgian Grand Prix,SAI,Williams,0.0,13.0,18,Three-Way Battle
+14,Hungarian Grand Prix,SAI,Williams,0.0,13.0,14,Turning Point
+15,Dutch Grand Prix,SAI,Williams,0.0,13.0,13,Finale
+16,Italian Grand Prix,SAI,Williams,0.0,13.0,11,Finale
+17,Azerbaijan Grand Prix,SAI,Williams,15.0,28.0,3,Finale
+18,Singapore Grand Prix,SAI,Williams,1.0,29.0,10,Finale
+19,United States Grand Prix,SAI,Williams,0.0,29.0,20,Finale
+20,Mexico City Grand Prix,SAI,Williams,0.0,29.0,17,Finale
+21,São Paulo Grand Prix,SAI,Williams,0.0,29.0,13,Finale
+22,Las Vegas Grand Prix,SAI,Williams,10.0,39.0,5,Finale
+23,Qatar Grand Prix,SAI,Williams,15.0,54.0,3,Finale
+24,Abu Dhabi Grand Prix,SAI,Williams,0.0,54.0,13,Finale
+1,Australian Grand Prix,STR,Aston Martin,8.0,8.0,6,Season Start
+2,Chinese Grand Prix,STR,Aston Martin,2.0,10.0,9,Season Start
+3,Japanese Grand Prix,STR,Aston Martin,0.0,10.0,20,Season Start
+4,Bahrain Grand Prix,STR,Aston Martin,0.0,10.0,17,Season Start
+5,Saudi Arabian Grand Prix,STR,Aston Martin,0.0,10.0,16,McLaren Dominance
+6,Miami Grand Prix,STR,Aston Martin,0.0,10.0,16,McLaren Dominance
+7,Emilia Romagna Grand Prix,STR,Aston Martin,0.0,10.0,15,McLaren Dominance
+8,Monaco Grand Prix,STR,Aston Martin,0.0,10.0,15,McLaren Dominance
+9,Spanish Grand Prix,STR,Aston Martin,0.0,10.0,,McLaren Dominance
+10,Canadian Grand Prix,STR,Aston Martin,0.0,10.0,17,Three-Way Battle
+11,Austrian Grand Prix,STR,Aston Martin,0.0,10.0,14,Three-Way Battle
+12,British Grand Prix,STR,Aston Martin,6.0,16.0,7,Three-Way Battle
+13,Belgian Grand Prix,STR,Aston Martin,0.0,16.0,14,Three-Way Battle
+14,Hungarian Grand Prix,STR,Aston Martin,6.0,22.0,7,Turning Point
+15,Dutch Grand Prix,STR,Aston Martin,6.0,28.0,7,Finale
+16,Italian Grand Prix,STR,Aston Martin,0.0,28.0,18,Finale
+17,Azerbaijan Grand Prix,STR,Aston Martin,0.0,28.0,17,Finale
+18,Singapore Grand Prix,STR,Aston Martin,0.0,28.0,13,Finale
+19,United States Grand Prix,STR,Aston Martin,0.0,28.0,12,Finale
+20,Mexico City Grand Prix,STR,Aston Martin,0.0,28.0,14,Finale
+21,São Paulo Grand Prix,STR,Aston Martin,0.0,28.0,16,Finale
+22,Las Vegas Grand Prix,STR,Aston Martin,0.0,28.0,18,Finale
+23,Qatar Grand Prix,STR,Aston Martin,0.0,28.0,17,Finale
+24,Abu Dhabi Grand Prix,STR,Aston Martin,1.0,29.0,10,Finale
+1,Australian Grand Prix,TSU,Red Bull Racing,0.0,0.0,12,Season Start
+2,Chinese Grand Prix,TSU,Red Bull Racing,0.0,0.0,16,Season Start
+3,Japanese Grand Prix,TSU,Red Bull Racing,0.0,0.0,12,Season Start
+4,Bahrain Grand Prix,TSU,Red Bull Racing,2.0,2.0,9,Season Start
+5,Saudi Arabian Grand Prix,TSU,Red Bull Racing,0.0,2.0,19,McLaren Dominance
+6,Miami Grand Prix,TSU,Red Bull Racing,1.0,3.0,10,McLaren Dominance
+7,Emilia Romagna Grand Prix,TSU,Red Bull Racing,1.0,4.0,10,McLaren Dominance
+8,Monaco Grand Prix,TSU,Red Bull Racing,0.0,4.0,17,McLaren Dominance
+9,Spanish Grand Prix,TSU,Red Bull Racing,0.0,4.0,13,McLaren Dominance
+10,Canadian Grand Prix,TSU,Red Bull Racing,0.0,4.0,12,Three-Way Battle
+11,Austrian Grand Prix,TSU,Red Bull Racing,0.0,4.0,16,Three-Way Battle
+12,British Grand Prix,TSU,Red Bull Racing,0.0,4.0,15,Three-Way Battle
+13,Belgian Grand Prix,TSU,Red Bull Racing,0.0,4.0,13,Three-Way Battle
+14,Hungarian Grand Prix,TSU,Red Bull Racing,0.0,4.0,17,Turning Point
+15,Dutch Grand Prix,TSU,Red Bull Racing,2.0,6.0,9,Finale
+16,Italian Grand Prix,TSU,Red Bull Racing,0.0,6.0,13,Finale
+17,Azerbaijan Grand Prix,TSU,Red Bull Racing,8.0,14.0,6,Finale
+18,Singapore Grand Prix,TSU,Red Bull Racing,0.0,14.0,12,Finale
+19,United States Grand Prix,TSU,Red Bull Racing,6.0,20.0,7,Finale
+20,Mexico City Grand Prix,TSU,Red Bull Racing,0.0,20.0,11,Finale
+21,São Paulo Grand Prix,TSU,Red Bull Racing,0.0,20.0,17,Finale
+22,Las Vegas Grand Prix,TSU,Red Bull Racing,0.0,20.0,12,Finale
+23,Qatar Grand Prix,TSU,Red Bull Racing,1.0,21.0,10,Finale
+24,Abu Dhabi Grand Prix,TSU,Red Bull Racing,0.0,21.0,14,Finale
+1,Australian Grand Prix,VER,Red Bull Racing,18.0,18.0,2,Season Start
+2,Chinese Grand Prix,VER,Red Bull Racing,12.0,30.0,4,Season Start
+3,Japanese Grand Prix,VER,Red Bull Racing,25.0,55.0,1,Season Start
+4,Bahrain Grand Prix,VER,Red Bull Racing,8.0,63.0,6,Season Start
+5,Saudi Arabian Grand Prix,VER,Red Bull Racing,18.0,81.0,2,McLaren Dominance
+6,Miami Grand Prix,VER,Red Bull Racing,12.0,93.0,4,McLaren Dominance
+7,Emilia Romagna Grand Prix,VER,Red Bull Racing,25.0,118.0,1,McLaren Dominance
+8,Monaco Grand Prix,VER,Red Bull Racing,12.0,130.0,4,McLaren Dominance
+9,Spanish Grand Prix,VER,Red Bull Racing,1.0,131.0,10,McLaren Dominance
+10,Canadian Grand Prix,VER,Red Bull Racing,18.0,149.0,2,Three-Way Battle
+11,Austrian Grand Prix,VER,Red Bull Racing,0.0,149.0,18,Three-Way Battle
+12,British Grand Prix,VER,Red Bull Racing,10.0,159.0,5,Three-Way Battle
+13,Belgian Grand Prix,VER,Red Bull Racing,12.0,171.0,4,Three-Way Battle
+14,Hungarian Grand Prix,VER,Red Bull Racing,2.0,173.0,9,Turning Point
+15,Dutch Grand Prix,VER,Red Bull Racing,18.0,191.0,2,Finale
+16,Italian Grand Prix,VER,Red Bull Racing,25.0,216.0,1,Finale
+17,Azerbaijan Grand Prix,VER,Red Bull Racing,25.0,241.0,1,Finale
+18,Singapore Grand Prix,VER,Red Bull Racing,18.0,259.0,2,Finale
+19,United States Grand Prix,VER,Red Bull Racing,25.0,284.0,1,Finale
+20,Mexico City Grand Prix,VER,Red Bull Racing,15.0,299.0,3,Finale
+21,São Paulo Grand Prix,VER,Red Bull Racing,15.0,314.0,3,Finale
+22,Las Vegas Grand Prix,VER,Red Bull Racing,25.0,339.0,1,Finale
+23,Qatar Grand Prix,VER,Red Bull Racing,25.0,364.0,1,Finale
+24,Abu Dhabi Grand Prix,VER,Red Bull Racing,25.0,389.0,1,Finale

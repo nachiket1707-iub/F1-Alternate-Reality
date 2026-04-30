@@ -1,0 +1,73 @@
+round_number,event_name,driver_code,points_after_race,points_gap_to_leader,races_remaining,max_points_available,championship_probability,win_probability,podium_probability
+1,Australian Grand Prix,NOR,25.0,0.0,23,598,1.0,1.0,0.0
+1,Australian Grand Prix,VER,18.0,-7.0,23,598,0.0,0.0,0.0
+1,Australian Grand Prix,PIA,2.0,-23.0,23,598,0.0,0.0,0.0
+2,Chinese Grand Prix,NOR,43.0,0.0,22,572,0.0,0.0,0.0
+2,Chinese Grand Prix,VER,30.0,-13.0,22,572,0.00178,0.00178,0.0
+2,Chinese Grand Prix,PIA,27.0,-16.0,22,572,0.99822,0.99822,0.0
+3,Japanese Grand Prix,NOR,61.0,0.0,21,546,0.7675,0.7675,0.0
+3,Japanese Grand Prix,VER,55.0,-6.0,21,546,0.02174,0.02174,0.0
+3,Japanese Grand Prix,PIA,42.0,-19.0,21,546,0.21076,0.21076,0.0
+4,Bahrain Grand Prix,NOR,76.0,0.0,20,520,0.0,0.0,0.0
+4,Bahrain Grand Prix,VER,63.0,-13.0,20,520,1.0,1.0,0.0
+4,Bahrain Grand Prix,PIA,67.0,-9.0,20,520,0.0,0.0,0.0
+5,Saudi Arabian Grand Prix,NOR,88.0,-4.0,19,494,0.99994,0.99994,0.0
+5,Saudi Arabian Grand Prix,VER,81.0,-11.0,19,494,0.0,0.0,0.0
+5,Saudi Arabian Grand Prix,PIA,92.0,0.0,19,494,6e-05,6e-05,0.0
+6,Miami Grand Prix,NOR,106.0,-11.0,18,468,1.0,1.0,0.0
+6,Miami Grand Prix,VER,93.0,-24.0,18,468,0.0,0.0,0.0
+6,Miami Grand Prix,PIA,117.0,0.0,18,468,0.0,0.0,0.0
+7,Emilia Romagna Grand Prix,NOR,124.0,-8.0,17,442,0.5659,0.5659,0.0
+7,Emilia Romagna Grand Prix,VER,118.0,-14.0,17,442,0.0069,0.0069,0.0
+7,Emilia Romagna Grand Prix,PIA,132.0,0.0,17,442,0.4272,0.4272,0.0
+8,Monaco Grand Prix,NOR,149.0,0.0,16,416,0.00132,0.00132,0.0
+8,Monaco Grand Prix,VER,130.0,-19.0,16,416,0.64344,0.64344,0.0
+8,Monaco Grand Prix,PIA,147.0,-2.0,16,416,0.35524,0.35524,0.0
+9,Spanish Grand Prix,NOR,167.0,-5.0,15,390,0.81102,0.81102,0.0
+9,Spanish Grand Prix,VER,131.0,-41.0,15,390,0.05312,0.05312,0.0
+9,Spanish Grand Prix,PIA,172.0,0.0,15,390,0.13586,0.13586,0.0
+10,Canadian Grand Prix,NOR,167.0,-17.0,14,364,0.99838,0.99838,0.0
+10,Canadian Grand Prix,VER,149.0,-35.0,14,364,0.0,0.0,0.0
+10,Canadian Grand Prix,PIA,184.0,0.0,14,364,0.00162,0.00162,0.0
+11,Austrian Grand Prix,NOR,192.0,-10.0,13,338,0.99982,0.99982,0.0
+11,Austrian Grand Prix,VER,149.0,-53.0,13,338,0.0,0.0,0.0
+11,Austrian Grand Prix,PIA,202.0,0.0,13,338,0.00018,0.00018,0.0
+12,British Grand Prix,NOR,217.0,-3.0,12,312,0.49306,0.49306,0.0
+12,British Grand Prix,VER,159.0,-61.0,12,312,0.0,0.0,0.0
+12,British Grand Prix,PIA,220.0,0.0,12,312,0.50694,0.50694,0.0
+13,Belgian Grand Prix,NOR,235.0,-10.0,11,286,0.279,0.279,0.0
+13,Belgian Grand Prix,VER,171.0,-74.0,11,286,0.0,0.0,0.0
+13,Belgian Grand Prix,PIA,245.0,0.0,11,286,0.721,0.721,0.0
+14,Hungarian Grand Prix,NOR,260.0,-3.0,10,260,0.14072,0.14072,0.0
+14,Hungarian Grand Prix,VER,173.0,-90.0,10,260,0.0,0.0,0.0
+14,Hungarian Grand Prix,PIA,263.0,0.0,10,260,0.85928,0.85928,0.0
+15,Dutch Grand Prix,NOR,260.0,-28.0,9,234,0.9037,0.9037,0.0
+15,Dutch Grand Prix,VER,191.0,-97.0,9,234,0.0,0.0,0.0
+15,Dutch Grand Prix,PIA,288.0,0.0,9,234,0.0963,0.0963,0.0
+16,Italian Grand Prix,NOR,278.0,-25.0,8,208,0.92186,0.92186,0.0
+16,Italian Grand Prix,VER,216.0,-87.0,8,208,0.00026,0.00026,0.0
+16,Italian Grand Prix,PIA,303.0,0.0,8,208,0.07788,0.07788,0.0
+17,Azerbaijan Grand Prix,NOR,284.0,-19.0,7,182,0.0702,0.0702,0.0
+17,Azerbaijan Grand Prix,VER,241.0,-62.0,7,182,0.00936,0.00936,0.0
+17,Azerbaijan Grand Prix,PIA,303.0,0.0,7,182,0.92044,0.92044,0.0
+18,Singapore Grand Prix,NOR,299.0,-16.0,6,156,0.9999,0.9999,0.0
+18,Singapore Grand Prix,VER,259.0,-56.0,6,156,2e-05,2e-05,0.0
+18,Singapore Grand Prix,PIA,315.0,0.0,6,156,8e-05,8e-05,0.0
+19,United States Grand Prix,NOR,317.0,-8.0,5,130,0.99806,0.99806,0.0
+19,United States Grand Prix,VER,284.0,-41.0,5,130,0.00056,0.00056,0.0
+19,United States Grand Prix,PIA,325.0,0.0,5,130,0.00138,0.00138,0.0
+20,Mexico City Grand Prix,NOR,342.0,0.0,4,104,0.9752,0.9752,0.0
+20,Mexico City Grand Prix,VER,299.0,-43.0,4,104,0.00078,0.00078,0.0
+20,Mexico City Grand Prix,PIA,335.0,-7.0,4,104,0.02402,0.02402,0.0
+21,São Paulo Grand Prix,NOR,367.0,0.0,3,78,0.99706,0.99706,0.0
+21,São Paulo Grand Prix,VER,314.0,-53.0,3,78,0.0,0.0,0.0
+21,São Paulo Grand Prix,PIA,345.0,-22.0,3,78,0.00294,0.00294,0.0
+22,Las Vegas Grand Prix,NOR,367.0,0.0,2,52,0.9993,0.9993,0.0
+22,Las Vegas Grand Prix,VER,339.0,-28.0,2,52,6e-05,6e-05,0.0
+22,Las Vegas Grand Prix,PIA,345.0,-22.0,2,52,0.00064,0.00064,0.0
+23,Qatar Grand Prix,NOR,379.0,0.0,1,26,0.9946,0.9946,0.0
+23,Qatar Grand Prix,VER,364.0,-15.0,1,26,0.00204,0.00204,0.0
+23,Qatar Grand Prix,PIA,363.0,-16.0,1,26,0.00336,0.00336,0.0
+24,Abu Dhabi Grand Prix,NOR,394.0,0.0,0,0,1.0,1.0,1.0
+24,Abu Dhabi Grand Prix,VER,389.0,-5.0,0,0,0.0,0.0,1.0
+24,Abu Dhabi Grand Prix,PIA,381.0,-13.0,0,0,0.0,0.0,1.0

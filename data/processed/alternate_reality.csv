@@ -1,0 +1,73 @@
+round_number,event_name,driver_code,actual_cumulative_points,alt_cumulative_points,actual_race_points,alt_race_points,scenario_name,is_alt_race,delta
+1,Australian Grand Prix,NOR,25.0,25.0,25.0,25.0,Round 14 VER Win,False,0.0
+2,Chinese Grand Prix,NOR,43.0,43.0,18.0,18.0,Round 14 VER Win,False,0.0
+3,Japanese Grand Prix,NOR,61.0,61.0,18.0,18.0,Round 14 VER Win,False,0.0
+4,Bahrain Grand Prix,NOR,76.0,76.0,15.0,15.0,Round 14 VER Win,False,0.0
+5,Saudi Arabian Grand Prix,NOR,88.0,88.0,12.0,12.0,Round 14 VER Win,False,0.0
+6,Miami Grand Prix,NOR,106.0,106.0,18.0,18.0,Round 14 VER Win,False,0.0
+7,Emilia Romagna Grand Prix,NOR,124.0,124.0,18.0,18.0,Round 14 VER Win,False,0.0
+8,Monaco Grand Prix,NOR,149.0,149.0,25.0,25.0,Round 14 VER Win,False,0.0
+9,Spanish Grand Prix,NOR,167.0,167.0,18.0,18.0,Round 14 VER Win,False,0.0
+10,Canadian Grand Prix,NOR,167.0,167.0,0.0,0.0,Round 14 VER Win,False,0.0
+11,Austrian Grand Prix,NOR,192.0,192.0,25.0,25.0,Round 14 VER Win,False,0.0
+12,British Grand Prix,NOR,217.0,217.0,25.0,25.0,Round 14 VER Win,False,0.0
+13,Belgian Grand Prix,NOR,235.0,235.0,18.0,18.0,Round 14 VER Win,False,0.0
+14,Hungarian Grand Prix,NOR,260.0,260.0,25.0,25.0,Round 14 VER Win,True,0.0
+15,Dutch Grand Prix,NOR,260.0,260.0,0.0,0.0,Round 14 VER Win,True,0.0
+16,Italian Grand Prix,NOR,278.0,278.0,18.0,18.0,Round 14 VER Win,True,0.0
+17,Azerbaijan Grand Prix,NOR,284.0,284.0,6.0,6.0,Round 14 VER Win,True,0.0
+18,Singapore Grand Prix,NOR,299.0,299.0,15.0,15.0,Round 14 VER Win,True,0.0
+19,United States Grand Prix,NOR,317.0,317.0,18.0,18.0,Round 14 VER Win,True,0.0
+20,Mexico City Grand Prix,NOR,342.0,342.0,25.0,25.0,Round 14 VER Win,True,0.0
+21,São Paulo Grand Prix,NOR,367.0,367.0,25.0,25.0,Round 14 VER Win,True,0.0
+22,Las Vegas Grand Prix,NOR,367.0,367.0,0.0,0.0,Round 14 VER Win,True,0.0
+23,Qatar Grand Prix,NOR,379.0,379.0,12.0,12.0,Round 14 VER Win,True,0.0
+24,Abu Dhabi Grand Prix,NOR,394.0,394.0,15.0,15.0,Round 14 VER Win,True,0.0
+1,Australian Grand Prix,VER,18.0,18.0,18.0,18.0,Round 14 VER Win,False,0.0
+2,Chinese Grand Prix,VER,30.0,30.0,12.0,12.0,Round 14 VER Win,False,0.0
+3,Japanese Grand Prix,VER,55.0,55.0,25.0,25.0,Round 14 VER Win,False,0.0
+4,Bahrain Grand Prix,VER,63.0,63.0,8.0,8.0,Round 14 VER Win,False,0.0
+5,Saudi Arabian Grand Prix,VER,81.0,81.0,18.0,18.0,Round 14 VER Win,False,0.0
+6,Miami Grand Prix,VER,93.0,93.0,12.0,12.0,Round 14 VER Win,False,0.0
+7,Emilia Romagna Grand Prix,VER,118.0,118.0,25.0,25.0,Round 14 VER Win,False,0.0
+8,Monaco Grand Prix,VER,130.0,130.0,12.0,12.0,Round 14 VER Win,False,0.0
+9,Spanish Grand Prix,VER,131.0,131.0,1.0,1.0,Round 14 VER Win,False,0.0
+10,Canadian Grand Prix,VER,149.0,149.0,18.0,18.0,Round 14 VER Win,False,0.0
+11,Austrian Grand Prix,VER,149.0,149.0,0.0,0.0,Round 14 VER Win,False,0.0
+12,British Grand Prix,VER,159.0,159.0,10.0,10.0,Round 14 VER Win,False,0.0
+13,Belgian Grand Prix,VER,171.0,171.0,12.0,12.0,Round 14 VER Win,False,0.0
+14,Hungarian Grand Prix,VER,173.0,196.0,2.0,25.0,Round 14 VER Win,True,23.0
+15,Dutch Grand Prix,VER,191.0,214.0,18.0,18.0,Round 14 VER Win,True,23.0
+16,Italian Grand Prix,VER,216.0,239.0,25.0,25.0,Round 14 VER Win,True,23.0
+17,Azerbaijan Grand Prix,VER,241.0,264.0,25.0,25.0,Round 14 VER Win,True,23.0
+18,Singapore Grand Prix,VER,259.0,282.0,18.0,18.0,Round 14 VER Win,True,23.0
+19,United States Grand Prix,VER,284.0,307.0,25.0,25.0,Round 14 VER Win,True,23.0
+20,Mexico City Grand Prix,VER,299.0,322.0,15.0,15.0,Round 14 VER Win,True,23.0
+21,São Paulo Grand Prix,VER,314.0,337.0,15.0,15.0,Round 14 VER Win,True,23.0
+22,Las Vegas Grand Prix,VER,339.0,362.0,25.0,25.0,Round 14 VER Win,True,23.0
+23,Qatar Grand Prix,VER,364.0,387.0,25.0,25.0,Round 14 VER Win,True,23.0
+24,Abu Dhabi Grand Prix,VER,389.0,412.0,25.0,25.0,Round 14 VER Win,True,23.0
+1,Australian Grand Prix,PIA,2.0,2.0,2.0,2.0,Round 14 VER Win,False,0.0
+2,Chinese Grand Prix,PIA,27.0,27.0,25.0,25.0,Round 14 VER Win,False,0.0
+3,Japanese Grand Prix,PIA,42.0,42.0,15.0,15.0,Round 14 VER Win,False,0.0
+4,Bahrain Grand Prix,PIA,67.0,67.0,25.0,25.0,Round 14 VER Win,False,0.0
+5,Saudi Arabian Grand Prix,PIA,92.0,92.0,25.0,25.0,Round 14 VER Win,False,0.0
+6,Miami Grand Prix,PIA,117.0,117.0,25.0,25.0,Round 14 VER Win,False,0.0
+7,Emilia Romagna Grand Prix,PIA,132.0,132.0,15.0,15.0,Round 14 VER Win,False,0.0
+8,Monaco Grand Prix,PIA,147.0,147.0,15.0,15.0,Round 14 VER Win,False,0.0
+9,Spanish Grand Prix,PIA,172.0,172.0,25.0,25.0,Round 14 VER Win,False,0.0
+10,Canadian Grand Prix,PIA,184.0,184.0,12.0,12.0,Round 14 VER Win,False,0.0
+11,Austrian Grand Prix,PIA,202.0,202.0,18.0,18.0,Round 14 VER Win,False,0.0
+12,British Grand Prix,PIA,220.0,220.0,18.0,18.0,Round 14 VER Win,False,0.0
+13,Belgian Grand Prix,PIA,245.0,245.0,25.0,25.0,Round 14 VER Win,False,0.0
+14,Hungarian Grand Prix,PIA,263.0,263.0,18.0,18.0,Round 14 VER Win,True,0.0
+15,Dutch Grand Prix,PIA,288.0,288.0,25.0,25.0,Round 14 VER Win,True,0.0
+16,Italian Grand Prix,PIA,303.0,303.0,15.0,15.0,Round 14 VER Win,True,0.0
+17,Azerbaijan Grand Prix,PIA,303.0,303.0,0.0,0.0,Round 14 VER Win,True,0.0
+18,Singapore Grand Prix,PIA,315.0,315.0,12.0,12.0,Round 14 VER Win,True,0.0
+19,United States Grand Prix,PIA,325.0,325.0,10.0,10.0,Round 14 VER Win,True,0.0
+20,Mexico City Grand Prix,PIA,335.0,335.0,10.0,10.0,Round 14 VER Win,True,0.0
+21,São Paulo Grand Prix,PIA,345.0,345.0,10.0,10.0,Round 14 VER Win,True,0.0
+22,Las Vegas Grand Prix,PIA,345.0,345.0,0.0,0.0,Round 14 VER Win,True,0.0
+23,Qatar Grand Prix,PIA,363.0,363.0,18.0,18.0,Round 14 VER Win,True,0.0
+24,Abu Dhabi Grand Prix,PIA,381.0,381.0,18.0,18.0,Round 14 VER Win,True,0.0
