@@ -1,0 +1,11 @@
+cache/
+data/raw/
+data/processed/
+__pycache__/
+data/__pycache__/
+dashboard/__pycache__/
+*.pyc
+.env
+fetch.log
+fetch_full.log
+.claude/
