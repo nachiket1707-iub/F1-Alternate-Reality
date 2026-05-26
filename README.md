@@ -1,6 +1,6 @@
 # F1 2025 Alternate Reality Dashboard
 
-This project was part of a two Masters courses - Data Visualization and Usable Artificial Intelligence. The project members were Nachiket Kulkarni and Pratham Mody. The project was as follows:
+This project was part of two Masters courses - Data Visualization and Usable Artificial Intelligence. The project members were Nachiket Kulkarni and Pratham Mody. The project was as follows:
 
 An interactive Streamlit dashboard that visualizes the 2025 Formula 1 World Championship and explores a counterfactual question: **how could Max Verstappen have won the title?**
 
